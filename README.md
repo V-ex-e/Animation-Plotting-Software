@@ -1,6 +1,8 @@
 # Animation-Plotting-Software
 Attempt at making an animation frame for 4D modeling with pure maths
 
+![PLOT](https://github.com/user-attachments/assets/1ab0fb48-a7a9-4a4b-b6f5-1662fd2e0d24)
+
 
 WIMP - Work in maintained progress
 
